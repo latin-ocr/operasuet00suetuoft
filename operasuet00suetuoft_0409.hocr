@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operasuet00suetuoft_0409.png"; bbox 0 0 2372 3918; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 962 1495 1295 1582">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 962 1495 1295 1582">
+     <span class='ocr_line' id='line_1_1' title="bbox 962 1495 1295 1582; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 962 1495 1295 1582; x_wconf 90' lang='lat' dir='ltr'>VITAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 426 1695 1837 1870">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 426 1695 1837 1870">
+     <span class='ocr_line' id='line_1_2' title="bbox 426 1695 1837 1769; baseline 0.001 -17"><span class='ocrx_word' id='word_1_2' title='bbox 426 1695 810 1765; x_wconf 86' lang='lat' dir='ltr'><strong>TERENTII,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 847 1695 1186 1765; x_wconf 84' lang='lat' dir='ltr'><strong>HORATn,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1227 1696 1542 1767; x_wconf 88' lang='lat' dir='ltr'>LUCAN1‚</span> <span class='ocrx_word' id='word_1_5' title='bbox 1577 1697 1837 1769; x_wconf 88' lang='lat' dir='ltr'>PLINII,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 757 1795 1509 1870; baseline 0.003 -20"><span class='ocrx_word' id='word_1_6' title='bbox 757 1795 1199 1868; x_wconf 85' lang='lat' dir='ltr'><strong>JUVENALIS,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1245 1797 1509 1870; x_wconf 89' lang='lat' dir='ltr'><strong>PERSII.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

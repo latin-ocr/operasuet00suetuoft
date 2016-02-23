@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operasuet00suetuoft_0009.png"; bbox 0 0 2554 4048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 392 618 404 656">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 392 618 404 656">
+     <span class='ocr_line' id='line_1_1' title="bbox 392 618 404 656; baseline 0 3392"><span class='ocrx_word' id='word_1_1' title='bbox 392 618 404 656; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 392 956 404 1012">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 392 956 404 1012">
+     <span class='ocr_line' id='line_1_2' title="bbox 392 956 404 1012; baseline 0 3036"><span class='ocrx_word' id='word_1_2' title='bbox 392 956 404 1012; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 328 2188 360 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 328 2188 360 2308">
+     <span class='ocr_line' id='line_1_3' title="bbox 328 2188 360 2308; baseline 0 1740"><span class='ocrx_word' id='word_1_3' title='bbox 328 2188 360 2308; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 312 4048">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 312 4048">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 312 4048; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 312 4048; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 601 1475 1670 1709">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 601 1475 1708 1753">
+     <span class='ocr_line' id='line_1_5' title="bbox 601 1475 1670 1709; baseline 0.017 -24"><span class='ocrx_word' id='word_1_5' title='bbox 601 1475 617 1563; x_wconf 74' lang='lat'><em>³</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 769 1569 1670 1709; x_wconf 83' lang='lat' dir='ltr'><strong>SU-ETONIUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
